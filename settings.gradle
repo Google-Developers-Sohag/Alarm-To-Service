@@ -1,0 +1,3 @@
+rootProject.name = "Alarm-To-Service"
+include ':alarm-to-service'
+include ':exampleapp'
